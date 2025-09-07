@@ -1,0 +1,3 @@
+[submodule "ai-expirements"]
+	path = ai-expirements
+	url = https://github.com/alejandroJaramillo87/ai-expirements
